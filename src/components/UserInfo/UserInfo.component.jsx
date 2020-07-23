@@ -1,4 +1,4 @@
-import React, {useState}  from 'react'
+import React  from 'react'
 
 import './UserInfo.styles.css'
 import { Calendar } from '../Calendar/Calendar.component';
@@ -6,9 +6,7 @@ import { Calendar } from '../Calendar/Calendar.component';
 
 export const UserInfo = ({id,real_name,tz,activity_periods}) => {
    console.log(activity_periods);
-   const [hidden, setHidden] = useState(false);
 
-  
    const totalItems = activity_periods.length;
 	const numberOfActiveItems = activity_periods.filter(item => item.active).length;
 	const progressBarWidth = totalItems > 1 ? (numberOfActiveItems - 1) / (totalItems - 1) * 100 : 0;
