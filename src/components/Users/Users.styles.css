@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0 20px;
+  }
+  
+  ul li {
+    border: 1px solid  #1f4068;
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #1f4068;
+    padding: 12px;
+    border-radius: 15px;
+    margin: 10px;
+    color: #ebecf1;
+    cursor: pointer;
+
+  }
+

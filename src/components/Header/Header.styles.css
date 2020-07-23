@@ -1,0 +1,28 @@
+* {box-sizing: border-box;}
+
+body { 
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header {
+    padding: 10px;
+    text-align: center;
+    background: #1f4068;
+    color: #eef1f1;
+    font-size: 30px;
+  }
+h2{
+  font-family: 'Mulish', sans-serif;
+}
+
+
+  
+@media screen and (max-width: 500px) {
+  .header{
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+
+}

@@ -1,0 +1,16 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .pagination a {
+    color: white;
+    float: left;
+    text-decoration: none;
+  }
+
+  .pagination a.active {
+    background-color: #ddd;
+    color: white;
+  }
+  

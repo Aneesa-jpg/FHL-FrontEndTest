@@ -1,25 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
+import {Route} from 'react-router-dom'
 import './App.css';
+import {Header} from './components/Header/Header.component'
+import {HomePage} from './components/HomePage/HomePage.component'
+import {UserPage} from './components/User/User.component'
+import {GlobalProvider} from './context/GlobalContext'
+
 
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+    <GlobalProvider>
+    <div className="container">
+    <Header />
+    <Route exact path='/'  component={HomePage}  />
+    <Route path={`/:id`} component={UserPage} />
     </div>
+    </GlobalProvider>
   );
 }
 

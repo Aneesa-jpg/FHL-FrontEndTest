@@ -1,0 +1,173 @@
+[
+    {
+      "id": "W012A3CDE",
+      "real_name": "Egon Spengler",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Jaaiza",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA7",
+      "real_name": "Shifa",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 12 2020  11:11AM",
+          "end_time": "Mar 12 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 15 2020  5:33PM",
+          "end_time": "Mar 15 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA5",
+      "real_name": "Glinda Southgood",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRP76",
+      "real_name": "Aneesa",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 13 2020  1:33PM",
+          "end_time": "Feb 13 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 19 2020  11:11AM",
+          "end_time": "Mar 19 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCyuPA5",
+      "real_name": "Aishwarya",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 16 2020  1:33PM",
+          "end_time": "Feb 16 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 9:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07opRPA5",
+      "real_name": "Alan",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 13 2020  1:33PM",
+          "end_time": "Feb 13 2020 2:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "We7QCRPA5",
+      "real_name": "Jkae",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020  1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020  5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCuiPA5",
+      "real_name": "Sandy",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 15 2020  1:33PM",
+          "end_time": "Feb 15 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020  12:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 26 2020  5:35PM",
+          "end_time": "Mar 26 2020 7:02PM"
+        }
+      ]
+    }
+  ]
