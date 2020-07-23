@@ -1,17 +1,21 @@
-Project Title
+# Project Title
+---
     Frontend Test - FullThrottle Labs
 
-Getting Started
+# Getting Started
+---
     Clone this repo to anywhere on your computer
 
-Prerequisites
+# Prerequisites
+---
     npm install axios react-context-api react-router-dom @fullcalendar/daygrid
 
-About
+# About
+---
     Shows the list of users and their activity
 
-Project Specifications
-
+# Project Specifications
+---
     Create UI for project
     Display the list of users in DOM
     Show the activity of each user in user page
@@ -19,5 +23,6 @@ Project Specifications
     Show the user activity in timeline
 
 
-Authors
+# Authors
+---
     Aneesa
